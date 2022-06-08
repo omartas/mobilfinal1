@@ -17,9 +17,6 @@ Tüm kullanıcıların verdiği puanları hesaplayarak 4 puan üzeri olan mekanl
 
 Aşağıda uygulamanın ve firebase in resimleri ve gifleri mevcuttur.
 
-![kayıt (online-video-cutter com) (2)](https://user-images.githubusercontent.com/56955207/172698119-f08aa9b6-4dd0-4d5f-bdbd-cba824797c27.gif)
-![kayıt (online-video-cutter com) (1)](https://user-images.githubusercontent.com/56955207/172698155-6fd8ac22-4292-4f6c-8e1b-03fc6728a58e.gif)
-
 ![Screenshot_1654702481](https://user-images.githubusercontent.com/56955207/172678365-2b59e8be-c262-4ff8-aeb9-025b9b8b25a9.png)
 ![Screenshot_1654702489](https://user-images.githubusercontent.com/56955207/172678383-92b1bb1d-14f1-45ba-8d62-3a855c881e15.png)
 ![Screenshot_1654702503](https://user-images.githubusercontent.com/56955207/172678397-2dd0e98c-1de6-4108-9ae9-264103d7c117.png)
@@ -29,3 +26,5 @@ Aşağıda uygulamanın ve firebase in resimleri ve gifleri mevcuttur.
 ![Screenshot_1654702580](https://user-images.githubusercontent.com/56955207/172678438-b913b5c9-41c6-4817-b2c7-c65ff9ea202d.png)
 
 
+![kayıt (online-video-cutter com) (2)](https://user-images.githubusercontent.com/56955207/172698833-031ef8ec-4296-4941-b3af-de2be308e0b5.gif)
+![kayıt (online-video-cutter com) (1)](https://user-images.githubusercontent.com/56955207/172698914-ca3b3a45-7558-46ea-8baa-56f08b1f7add.gif)
