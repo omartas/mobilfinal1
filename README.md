@@ -26,3 +26,5 @@ Aşağıda uygulamanın ve firebase in resimleri ve gifleri mevcuttur.
 ![Screenshot_1654702566](https://user-images.githubusercontent.com/56955207/172678426-9def9bdc-cec3-4386-8eee-ac3632a52b4a.png)
 ![Screenshot_1654702580](https://user-images.githubusercontent.com/56955207/172678438-b913b5c9-41c6-4817-b2c7-c65ff9ea202d.png)
 
+![kayıt (online-video-cutter com) (2)](https://user-images.githubusercontent.com/56955207/172698119-f08aa9b6-4dd0-4d5f-bdbd-cba824797c27.gif)
+![kayıt (online-video-cutter com) (1)](https://user-images.githubusercontent.com/56955207/172698155-6fd8ac22-4292-4f6c-8e1b-03fc6728a58e.gif)
