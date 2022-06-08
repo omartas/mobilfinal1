@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "3625754911",
+    "project_id": "mobilfinalodevi-11693",
+    "storage_bucket": "mobilfinalodevi-11693.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3625754911:android:19ef2a787f7ffb1de7902a",
+        "android_client_info": {
+          "package_name": "com.example.mobilfinal1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3625754911-qpr2mmg0k9360cm4aksj7t0h01qo90cv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBysv7tbkuF2F7AngIGmEQ8_LOnw0Q-St4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3625754911-qpr2mmg0k9360cm4aksj7t0h01qo90cv.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
