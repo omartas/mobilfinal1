@@ -21,7 +21,8 @@ Aşağıda uygulamanın ve firebase in resimleri ve gifleri mevcuttur.
 ![Screenshot_1654702489](https://user-images.githubusercontent.com/56955207/172678383-92b1bb1d-14f1-45ba-8d62-3a855c881e15.png)
 ![Screenshot_1654702503](https://user-images.githubusercontent.com/56955207/172678397-2dd0e98c-1de6-4108-9ae9-264103d7c117.png)
 
-![Screenshot_1654702507](https://user-images.githubusercontent.com/56955207/172678415-3dd6263e-8209-47f2-bead-061571fb9338.png)
+![Screenshot_1654702507](https://user-images.githubusercontent.com/56955207/172678415-3dd6263e-8209-47f2-bead-061571fb9338.png)![Screenshot_16547025562](https://user-images.githubusercontent.com/56955207/172815290-3af15c43-88fc-4501-9557-774c685759d2.png)
+
 ![Screenshot_1654702566](https://user-images.githubusercontent.com/56955207/172678426-9def9bdc-cec3-4386-8eee-ac3632a52b4a.png)
 ![Screenshot_1654702580](https://user-images.githubusercontent.com/56955207/172678438-b913b5c9-41c6-4817-b2c7-c65ff9ea202d.png)
 
