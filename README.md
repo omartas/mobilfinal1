@@ -28,4 +28,3 @@ Aşağıda uygulamanın ve firebase in resimleri ve gifleri mevcuttur.
 
 ![kayıt (online-video-cutter com) (2)](https://user-images.githubusercontent.com/56955207/172698833-031ef8ec-4296-4941-b3af-de2be308e0b5.gif)
 ![kayıt (online-video-cutter com) (1)](https://user-images.githubusercontent.com/56955207/172698914-ca3b3a45-7558-46ea-8baa-56f08b1f7add.gif)
-![ezgif-3-9bf35de730](https://user-images.githubusercontent.com/56955207/172813890-a92f8af5-2c57-4f0b-ae98-db9cdd007b4c.gif)
